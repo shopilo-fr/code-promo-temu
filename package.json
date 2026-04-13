@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-temu",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo Temu depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-temu",
+    "bon-de-reduction-temu",
+    "coupon-temu",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/temu.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-temu.git"
+  }
+}
